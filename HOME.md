@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 layout: page
 title: "HOME"
 permalink: awekblad.github.io
